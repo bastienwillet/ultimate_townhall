@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+ruby '2.5.1'
+#gem 'rubygems'
+gem 'nokogiri'
+#gem 'open-uri'
+gem 'json'
+gem 'csv'
+gem 'dotenv'
+gem 'gmail'
+gem 'twitter'
+gem 'watir'
+gem 'rubocop'
